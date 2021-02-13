@@ -18,8 +18,8 @@ A passionate frontend developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/soniatt93" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="codepen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonia-torres-tacero" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://codepen.io/soniatt93" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="codepen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sonia-torres-tacero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <!---

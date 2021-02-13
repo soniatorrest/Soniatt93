@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Soniatt93</h1>
+<h1 align="center">Hi there, I'm @Soniatt93👋</h1>
 <!--
 <h3 align="center">A passionate frontend developer</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=soniatt93&show_icons=true&theme=dracula&locale=en" alt="soniatt93" /></p>
@@ -6,8 +6,10 @@
 -->
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniatt93&show_icons=true&theme=dracula&locale=en&layout=compact" alt="soniatt93" /></p>
 
+A passionate frontend developer
+
 - 🔭 I’m currently working on **Apps**
-- 🌱 I’m currently learning **Flutter, Figma, Adobe XD**
+- 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **Up for anything!**
 - 👀 I’m interested in **UI/UX Desing**
 

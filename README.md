@@ -1,9 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soniatt93&label=Profile%20views&color=0e75b6&style=flat-square" alt="soniatt93" /> </p>
 <h1 align="center">Hi there, I'm @Soniatt93👋</h1>
-<!--
-<h3 align="center">A passionate frontend developer</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=soniatt93&show_icons=true&theme=dracula&locale=en" alt="soniatt93" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniatt93&show_icons=true&theme=dracula&locale=en&layout=compact" alt="soniatt93" /></p>
--->
+
 <p align="center">Full-Stack Developer | Android Developer</p>
 <p align="center"> 
 <a href="https://soniatt93.github.io/" target="_blank"> <img align="center" src="https://github.com/Soniatt93/Soniatt93.github.io/blob/master/assets/img/logo.svg" alt="portfolio" width="20" height="20"/></a>
@@ -20,8 +17,8 @@ Programmer specialized in cross-platform application development using multiple 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="20" height="20"/> Android </a> 
-  <a href="https://angular.io" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angularjs" width="20" height="20"/> Angujarjs </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="20" height="20"/> Android </a> 
+  <a href="https://angular.io" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angularjs" width="20" height="20"/> Angujarjs </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="20" height="20"/> Bootstrap </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="20" height="20"/> CSS3 </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="20" height="20"/> Django </a> 
@@ -43,6 +40,9 @@ Programmer specialized in cross-platform application development using multiple 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniatt93&show_icons=true&theme=dracula&locale=en&layout=compact" alt="soniatt93" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniatt93&theme=dark" alt="soniatt93" /></p>
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soniatt93&show_icons=true&theme=dracula&locale=en" alt="soniatt93" /></p>
+-->
 
 <!---
 Soniatt93/Soniatt93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

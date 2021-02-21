@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/sonia-torres-tacero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" width="20" /></a>
   </p>
 
-Programmer specialized in cross-platform application development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products. A passionate IU/UX Design.
+Programmer specialized in cross-platform application development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
 
 - 🔭 I’m currently working on **Apps**
 - 🌱 I’m currently learning **Flutter, Dart**

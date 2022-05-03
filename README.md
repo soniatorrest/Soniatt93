@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniatt93&label=Profile%20views&color=0e75b6&style=flat-square" alt="soniatt93" /> </p>
 <h1 align="center">Hi there, I'm Sonia👋</h1>
 
-<p align="center">Full-Stack Developer | Android Developer</p>
+<p align="center">Full-Stack Developer</p>
 <p align="center"> 
-<a href="https://soniatorres.studio" target="_blank"> <img align="center" src="https://github.com/Soniatt93/Soniatt93.github.io/blob/master/assets/img/logo.svg" alt="portfolio" width="20" height="20"/></a>
+<a href="https://soniatorres-dev.web.app" target="_blank"> <img align="center" src="https://github.com/Soniatt93/Soniatt93.github.io/blob/master/assets/img/logo.svg" alt="portfolio" width="20" height="20"/></a>
 <a href="https://codepen.io/soniatt93" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="codepen" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/sonia-torres-tacero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" width="20" /></a>
   </p>

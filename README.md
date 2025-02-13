@@ -15,7 +15,6 @@ I'm excited to develop new skills that help me progress and be more efficient by
 Passionate about programming and UI/UX design, I'm looking for a project in which I can add value and that allows me to grow professionally and personally.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniatorrest&show_icons=true&theme=dracula&locale=en&layout=compact" alt="soniatorrest" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniatorrest&theme=dark" alt="soniatorrest" /></p>
 
 
 

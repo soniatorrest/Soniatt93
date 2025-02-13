@@ -5,7 +5,7 @@
 <p align="center"> 
 <a href="https://soniatorres-dev.web.app" target="_blank"> <img align="center" src="https://github.com/soniatorrest/soniatorrest.github.io/blob/master/assets/img/logo.svg" alt="portfolio" width="20" height="20"/></a>
 <a href="https://codepen.io/soniatorrest" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="codepen" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/sonia-torres-tacero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/soniatorrest" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" width="20" /></a>
   </p>
 
 Software engineer with experience in the conception, construction, design and implementation of software applications and solutions. Always paying attention to details to obtain the best results in each project
